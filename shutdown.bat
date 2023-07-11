@@ -1,0 +1,1 @@
+"C:\Program Files\PuTTY\plink.exe" -load raspi -batch shutdown -h now
