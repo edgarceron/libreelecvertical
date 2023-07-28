@@ -42,7 +42,8 @@ connmanctl config <entry_with_asterisk> --ipv4 manual 192.168.0.240 255.255.255.
 ```
 crontab -e
 ```
-    Add the following line:
+
+7. Add the following line:
 ```
 */5 * * * * kodi-send -a "PlayMedia(/storage/videos/)"
 ```
